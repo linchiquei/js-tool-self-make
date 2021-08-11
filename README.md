@@ -11,3 +11,8 @@
 - 在倒數中按左右鍵，按一次可前進或後退 5 秒鐘，按上鍵可重新再來一次。
 - 時間到會播放提醒時間
 - PS:注意輸入法！只允許英文輸入數字
+
+利用 html / css 做RWD練習
+
+五倍紅寶石官網
+https://linchiquei.github.io/MyHtmlTest/my/homework06.html
